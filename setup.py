@@ -133,6 +133,7 @@ args = dict(
         "psutil",
         "pydantic >= 1.10.8, < 2",
         "PyQt5",
+        "PyQt6",
         "pyrsistent",
         "python-dateutil",
         "pyyaml",
